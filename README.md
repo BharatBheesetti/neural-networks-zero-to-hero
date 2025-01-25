@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Neural Networks: Zero to Hero 
-# Neural Networks: Zero to Hero
 
 This repository contains my implementation and notes following Andrej Karpathy's "Neural Networks: Zero to Hero" course. Each directory corresponds to a different section of the course.
 
@@ -83,4 +81,3 @@ Each directory contains:
 =======
 # neural-networks-zero-to-hero
 Implementing Karpathy's zero to hero playlist
->>>>>>> 71e0b93d60a6a1b9fa9bd4bf698c91fbceaccd4b
