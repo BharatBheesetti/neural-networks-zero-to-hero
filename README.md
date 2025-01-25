@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neural Networks: Zero to Hero 
 # Neural Networks: Zero to Hero
 
@@ -79,3 +80,7 @@ Each directory contains:
 - Implementation files (.py)
 - Jupyter notebooks (.ipynb) for experiments
 - README with section-specific notes
+=======
+# neural-networks-zero-to-hero
+Implementing Karpathy's zero to hero playlist
+>>>>>>> 71e0b93d60a6a1b9fa9bd4bf698c91fbceaccd4b
